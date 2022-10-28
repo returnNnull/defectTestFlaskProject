@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.test{
+    color: blue;
+}
+
+body{
+    background-color: #85cece;
+}
+
+.form-container{
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    height: 600px;
+    background-color: #ffffff;
+    align-items: center;
+    justify-content: center;
+    margin: 100px auto;
+}
+
+.form-title{
+    color: #03d282;
+}
+
+
+.reg-btn{
+    width: 100px;
+    height: 50px;
+    text-decoration: none;
+    background-color: #c4c4c4;
+    border-radius: 50px;
+}
